@@ -1,7 +1,5 @@
 # Site settings
 title: Happy Birthday! 
-email: from 桃花仙 芊宝
-url: https://example.github.io
 description: "今天是10月22日，段志鹏先生的2019年生日。我们从意大利终于搬到了挪威。这一年发生了很多重要的事情，比如我们结婚了，我们硕士毕业了，我们决定一起去挪威了。好像发生了很多很多大事件，但最最重要的还是‘我们’。我坐在桌前看着刚买的花花和远处的教堂，以及无比珍贵的奥斯陆阳光，真的觉得自己非常幸福，和段段先生在一起."
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -9,7 +7,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: happy birthday 10.22
+footer: from 桃花仙
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
